@@ -133,9 +133,9 @@ This fork designed for production use with a focus on clarity and safety:
 >
 > - [@lumina-md](https://www.npmjs.com/package/@lumina-md/baileys)
 > - [@sairidev](https://www.npmjs.com/package/@sairidev/baileys-new)
+> - [@lordmega/baileys](https://www.npmjs.com/package/@lordmega/baileys)
+> - [phantom-baileys](https://www.npmjs.com/package/phantom-baileys)
 > - [nexora-baileys](https://www.npmjs.com/package/nexora-baileys)
-> - [baileys-yorkv2](https://www.npmjs.com/package/baileys-yorkv2)
-> - [aetherzxyz](https://www.npmjs.com/package/aetherzxyz)
 >
 > These packages primarily repackage or republish this fork under different names while failing to preserve proper attribution, credits, or modification notes.
 > 
@@ -2049,6 +2049,10 @@ A fast, lightweight, and modular WhatsApp bot built with [@itsliaaa/baileys](htt
 Perfect for managing groups, moderating chats, and adding fun with quiz games and handy tools.
 
 👉🏻 [@itsliaaa/starseed](https://github.com/itsliaaa/starseed#readme)
+
+A lightweight yet powerful Baileys wrapper designed to simplify development while extending support for additional message types and WhatsApp features.
+
+👉🏻 [@itsliaaa/starcore](https://www.npmjs.com/package/@itsliaaa/starcore)
 
 ### 📦 Fork Base
 
